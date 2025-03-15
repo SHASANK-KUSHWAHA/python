@@ -22,3 +22,4 @@ class Dog:
 # Creating an object of the Dog class
 my_dog = Dog("Buddy", 3)
 print(my_dog.bark())  # Output: Buddy says woof!
+#now we have finally achieved a way to code without being dependent on the system
